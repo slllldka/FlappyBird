@@ -5,6 +5,9 @@ JAVA Swing을 사용하여 개발<br>
 
 개발 기간: 2023/02
 
+# 게임 영상
+https://github.com/user-attachments/assets/73fc964c-2eb4-44bf-9be7-012851aae036
+
 # 프로젝트 설명
 
 ### 1. 시작화면 및 설명
